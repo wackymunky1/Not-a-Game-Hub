@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FNF Main Menu</title>
+    <title>FNF</title>
     <style>
         body {
             margin: 0;
@@ -47,8 +47,8 @@
 
     <div id="credits" class="hidden">
         <h2>Credits</h2>
-        <p>Developed by [Your Name]</p>
-        <p>Graphics by [Your Name]</p>
+        <p>Developed by Wackymunky1</p>
+        <p>Graphics by Internet</p>
         <div class="menu-item" onclick="goBack()">Back</div>
     </div>
 
